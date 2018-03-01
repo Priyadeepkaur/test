@@ -1,3 +1,3 @@
-v1.1
-This is created in working_branch.
-Master branch should still have v0.1
+v0.1
+
+This file will contain basic info for the code example
