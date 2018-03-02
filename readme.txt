@@ -1,3 +1,3 @@
-v0.1
+v 0.2
 
-This file will contain basic info for the code example
+Now in branch - branch
